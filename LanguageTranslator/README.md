@@ -1,30 +1,26 @@
 # 🌍 AI Language Translator
 
-A simple AI-powered Language Translation Tool built using Python, Streamlit, and deep-translator.
+This project was developed as part of the **CodeAlpha Artificial Intelligence Internship**.
 
-## Features
+## 📌 Features
 
 - Translate text between multiple languages
-- User-friendly Streamlit interface
-- Supports English, Urdu, French, Spanish, German, Arabic, Hindi, Chinese, Japanese, Korean, Russian, Turkish, and Portuguese
-- Error handling for invalid inputs
+- Select source and target languages
+- Clean Streamlit interface
+- Powered by Google Translator using `deep-translator`
 
-## Technologies Used
+---
+
+## 🛠 Technologies Used
 
 - Python
 - Streamlit
 - deep-translator
 - Requests
 
-## Installation
+---
 
-Clone the repository:
-
-```bash
-git clone https://github.com/yourusername/CodeAlpha_LanguageTranslator.git
-```
-
-Install dependencies:
+## 🚀 Installation
 
 ```bash
 pip install -r requirements.txt
@@ -36,6 +32,14 @@ Run the project:
 streamlit run app.py
 ```
 
-## Author
+---
 
-Your Name
+## 📷 Application Preview
+
+![AI Language Translator](images/translator_ui.png)
+
+---
+
+## 👨‍💻 Author
+
+**Muhammad Bilal Shafique**
